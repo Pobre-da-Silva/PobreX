@@ -15,6 +15,7 @@ sudo pacman -S xorg-xinit
 npm i slugdown
 npm i dwing
 git clone https://github.com/Pobre-da-Silva/pobrelang
+git clone https://github.com/Pobre-da-Silva/Pruca
 git clone https://github.com/Pobre-da-Silva/prume
 
 #nano is for pussys, real boys use prume
